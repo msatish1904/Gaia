@@ -1,6 +1,6 @@
 provider "aws" {
-      aws_access_key = "AKIAW3MEFAIS2KUWPS7221MSWH"
-      aws_secret_key = "LoOEJY+9I5eljMRO0jxCim2SAsH9Jb5aLqxr7442MSKlw6"
+      aws_access_key = "AKIAW3MEFAIS2WPS7221MSWH"
+      aws_secret_key = "LoOEJY+9I5eljMRO0jxCim2sH9Jb5aLqxr7442MSKlw6"
       aws_region = "us-east-1"
 }
 
